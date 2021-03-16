@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout<<"hello new project";
+	std::cout<<"hello werld";
 }
